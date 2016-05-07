@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Prevent Access to wp-admin
-Version: 0.1
+Version: 0.0.1
 Description: Prevent access to wp-admin for specific user roles
 Author: CHR Designer
 Author URI: http://www.chrdesigner.com
